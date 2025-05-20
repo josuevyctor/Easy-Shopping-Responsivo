@@ -3,4 +3,4 @@
 <br>
 <h2>Projeto que eu aprendi no DevClub</h2>
 
-<img src="https://github.com/josuevyctor/Easy-Shopping-Responsivo/blob/master/assets/Mobile%20responsivo.png?raw=true"/>
+<img src="https://github.com/josuevyctor/Easy-Shopping-Responsivo/blob/master/assets/web%20easy.png?raw=true"/>
